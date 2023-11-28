@@ -1,4 +1,4 @@
-Srujan Gutta    
+Srujan Gutta, sgutta@ucsd.edu    
 B07 Lindsey Kostas    
 **What is the most interesting topic covered in your domain this quarter?**    
 Lots of the graph-ml stuff has been really interesting to me since it is a topic I haven't touched before. Quite frankly my favorite part is learning about the gaps where ML could come in and help since it really gets me thinking about what I could try to solve those problems.    
